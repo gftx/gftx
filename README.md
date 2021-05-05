@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🧛🏻 I'm Frontend Developer from Russia, nice to meet u! 🧙
+🧛🏻 I'm JavaScript Developer from Russia, nice to meet u! 🧙
