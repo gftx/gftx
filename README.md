@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🧛🏻 I'm JavaScript Developer from Russia, nice to meet u!
+
 🧙 Also playing WoW (not often), HS so message me if u want to play
 
 
