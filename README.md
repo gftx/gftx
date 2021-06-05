@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🧛🏻 I'm JavaScript Developer from Russia, nice to meet u!
+🧛🏻 I'm JS (React) Developer from Russia, nice to meet u!
 
-🧙 Also playing WoW (not often), HS so message me if u want to play
+🧙 Also playing WoW (not often) & HS so message me in tg @br1stl if u want to play
 
 
 
