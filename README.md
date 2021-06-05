@@ -2,7 +2,7 @@
 
 🧛🏻 I'm JS (React) Developer from Russia, nice to meet u!
 
-🧙 Also playing WoW (not often) & HS so message me in tg @br1stl if u want to play
+🧙 Also playing WoW (not often) & HS so if u want to play message me in telegram: @br1stl 
 
 
 
