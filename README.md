@@ -11,7 +11,7 @@
 
 ## Skills 
   ![](https://img.shields.io/badge/JavaScript-3%20Years-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
-  ![](https://img.shields.io/badge/ReactJS-2.5%20Years-informational?style=flat&logo=react&logoColor=767ab5&color=767ab5)
+  ![](https://img.shields.io/badge/ReactJS-2.5%20Years-informational?style=flat&logo=react&logoColor=61dafb&color=61dafb)
   ![](https://img.shields.io/badge/Node.JS-2%20Years-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
   
   
