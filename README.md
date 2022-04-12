@@ -13,7 +13,7 @@
   ![](https://img.shields.io/badge/JavaScript-3%20Years-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
   ![](https://img.shields.io/badge/ReactJS-2.5%20Years-informational?style=flat&logo=react&logoColor=61dafb&color=61dafb)
   ![](https://img.shields.io/badge/Node.JS-2%20Years-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
-  ![](https://img.shields.io/badge/Node.JS-1%20Year-informational?style=flat&logo=typescript&logoColor=3178c6&color=3178c6)
+  ![](https://img.shields.io/badge/TypeScript-1%20Year-informational?style=flat&logo=typescript&logoColor=3178c6&color=3178c6)
   
   
 ## Contact
