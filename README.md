@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧛🏻 I'm Frontend (React + TS) Developer from Russia, nice to meet u!
+🧛🏻 I'm Frontend Developer from Russia, nice to meet u!
 
 
 
